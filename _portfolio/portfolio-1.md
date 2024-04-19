@@ -71,6 +71,6 @@ Com os dados em mãos, devemos definir cada etapa do processo de criação do gr
   )
 ```
 
-![graficos](graficos.png)
+![graficos](/images/graficos.png)
 
 ....
